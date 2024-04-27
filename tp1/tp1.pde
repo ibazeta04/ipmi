@@ -1,4 +1,7 @@
- PImage liminal;
+// valentina ibazeta 
+// comision 2 
+// 120322/4
+PImage liminal;
 void setup(){
 size (800 , 400) ;
 background(78, 119, 140);
